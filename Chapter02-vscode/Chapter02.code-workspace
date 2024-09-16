@@ -5,6 +5,12 @@
 		},
 		{
 			"path": "Vocabulary"
+		},
+		{
+			"path": "Numbers"
+		},
+		{
+			"path": "Variables"
 		}
 	],
 	"settings": {}
