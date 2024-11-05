@@ -64,3 +64,14 @@ for (int i = 0; i < names.Length; i++)
   // output the item at index position i
   Console.WriteLine(names[i]);
 }
+
+Console.WriteLine();
+
+string[] cats = new[] { "Sylvester", "Garfield", "Grumpy Cat", "Morris", "Felix"};
+for (int i = 0; i < cats.Length; i++)
+{
+    Console.WriteLine(cats[i]);
+}
+
+Console.WriteLine("---------------");
+
